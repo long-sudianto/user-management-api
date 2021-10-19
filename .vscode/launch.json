@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UserManagementApiApplication<user-management-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bca.usermanagementapi.UserManagementApiApplication",
+            "projectName": "user-management-api",
+            "args": ""
+        }
+    ]
+}
